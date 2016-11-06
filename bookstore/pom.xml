@@ -24,7 +24,7 @@
   </dependencies>
   <modules>
     <module>bookstoreDB</module>
-    <module>bookstoreapi</module>
     <module>bookstoreui</module>
+    <module>bookstoresvc</module>
   </modules>
 </project>

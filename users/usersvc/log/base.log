@@ -1,0 +1,35 @@
+2016-11-06 21:30:02,676 INFO (StartupInfoLogger.java:48)- Starting WebServiceApplication on bluemoon with PID 10204 (E:\projects\microservice\users\usersvc\target\classes started by flyblue in E:\projects\microservice\users\usersvc)
+2016-11-06 21:30:02,682 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-06 21:30:02,683 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-11-06 21:30:09,052 INFO (StartupInfoLogger.java:57)- Started WebServiceApplication in 6.971 seconds (JVM running for 7.645)
+2016-11-06 21:30:21,315 DEBUG (UserService.java:23)- call getAll with param:"aaa"
+2016-11-06 22:32:39,800 INFO (StartupInfoLogger.java:48)- Starting GroupServiceTest on bluemoon with PID 9844 (started by flyblue in E:\projects\microservice\users\usersvc)
+2016-11-06 22:32:39,801 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-06 22:32:39,802 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-11-06 22:32:45,117 INFO (StartupInfoLogger.java:57)- Started GroupServiceTest in 5.939 seconds (JVM running for 7.032)
+2016-11-06 22:32:45,235 DEBUG (GroupService.java:23)- call getAll with param:
+2016-11-06 22:32:45,402 INFO (StartupInfoLogger.java:48)- Starting UserServiceTest on bluemoon with PID 9844 (started by flyblue in E:\projects\microservice\users\usersvc)
+2016-11-06 22:32:45,402 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-06 22:32:45,403 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-11-06 22:32:49,250 INFO (StartupInfoLogger.java:57)- Started UserServiceTest in 3.913 seconds (JVM running for 11.164)
+2016-11-06 22:32:49,363 DEBUG (UserService.java:23)- call getAll with param:
+2016-11-06 23:12:12,459 INFO (StartupInfoLogger.java:48)- Starting GroupServiceTest on bluemoon with PID 5684 (started by flyblue in E:\projects\microservice\users\usersvc)
+2016-11-06 23:12:12,483 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-06 23:12:12,484 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-11-06 23:12:18,003 INFO (StartupInfoLogger.java:57)- Started GroupServiceTest in 6.173 seconds (JVM running for 7.315)
+2016-11-06 23:12:18,100 DEBUG (GroupService.java:23)- call getAll with param:
+2016-11-06 23:12:18,255 INFO (StartupInfoLogger.java:48)- Starting UserServiceTest on bluemoon with PID 5684 (started by flyblue in E:\projects\microservice\users\usersvc)
+2016-11-06 23:12:18,256 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-06 23:12:18,257 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-11-06 23:12:21,838 INFO (StartupInfoLogger.java:57)- Started UserServiceTest in 3.65 seconds (JVM running for 11.15)
+2016-11-06 23:12:21,976 DEBUG (UserService.java:23)- call getAll with param:
+2016-11-06 23:25:31,097 INFO (StartupInfoLogger.java:48)- Starting GroupServiceTest on bluemoon with PID 5896 (started by flyblue in E:\projects\microservice\users\usersvc)
+2016-11-06 23:25:31,097 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-06 23:25:31,100 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-11-06 23:25:36,443 INFO (StartupInfoLogger.java:57)- Started GroupServiceTest in 5.963 seconds (JVM running for 7.063)
+2016-11-06 23:25:36,576 DEBUG (GroupService.java:23)- call getAll with param:
+2016-11-06 23:25:36,745 INFO (StartupInfoLogger.java:48)- Starting UserServiceTest on bluemoon with PID 5896 (started by flyblue in E:\projects\microservice\users\usersvc)
+2016-11-06 23:25:36,745 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2016-11-06 23:25:36,746 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-11-06 23:25:40,237 INFO (StartupInfoLogger.java:57)- Started UserServiceTest in 3.563 seconds (JVM running for 10.857)
+2016-11-06 23:25:40,369 DEBUG (UserService.java:23)- call getAll with param:
